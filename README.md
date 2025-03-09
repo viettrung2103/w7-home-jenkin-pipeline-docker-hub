@@ -8,4 +8,13 @@ This app let user log the sport activity the user have done during the week, the
 - `docker run -it --rm your-dockerhub-username/sports-time-tracker:latest_v1`
 - `docker run -it viettrung21/w7-home-sport-tracker:latest_v1`
 - Following the screen command to use the app
+*** Deliveries
+- Docker Desktop
+  ![Jenkin](/media-cicd/docker-desktop.PNG)
+- Docker Hub
+  ![Docker Desktop](/media-cicd/docker-hub.PNG)
+- Docker lab Play
+  ![Docker Hub](/media-cicd/docker-lab-play.PNG)
+- Jenkin
+  ![Docker Lab Play](/media-cicd/jenkin.PNG)
   
